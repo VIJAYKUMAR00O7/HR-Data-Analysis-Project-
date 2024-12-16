@@ -1,6 +1,10 @@
 # HR-Data-Analysis-Project-
 Created Power BI dashboards to present key metrics, aligning with client needs. Delivered actionable insights through concise email communication. Analyzed HR data to identify root causes of gender imbalance at the executive level.
 
+- Developed Power BI dashboards to present key performance indicators clearly, meeting client requirements with tailored visual solutions.
+- Communicated insights effectively through concise emails, providing actionable recommendations to engagement partners.
+- Analyzed HR data to address gender balance issues at the executive level, identifying root causes through detailed data evaluation.
+
 
 Hi there, I'm Vijay Kumar! 👋
 
